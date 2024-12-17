@@ -1,4 +1,4 @@
-# Sales & Finance Analytics Project (For AtliQ Hardwares)|| Excel , Power Query, Pivot Table
+# Sales & Finance Analytics Project (For AtliQ Hardwares)|| Microsoft Excel 
 
 ### Project objective -
 
@@ -54,10 +54,10 @@ The dataset consisted of 7,99,962 entries with the following features:
 
 ### Process:
 
-##### 𖧹 Data Cleaning: 
+#### 𖧹 Data Cleaning: 
 Ensured consistency in date formatting and checked for missing or duplicate entries.
 
-##### 𖧹 Data Preparation: 
+#### 𖧹 Data Preparation: 
 Created calculated fields for metrics like gross profit (net_sales_amount - freight_cost - manufacturing_cost).
 
 ##### 𖧹 Exploratory Analysis: 
@@ -71,19 +71,19 @@ Examined sales trends over time, identified top-performing products, and analyze
 
 ### Insights & Findings :-
 
-#### ✨Report 1 - Market Performance VS Target
+### ✨Report 1 - Market Performance VS Target
 
 ![Screenshot 2024-12-17 143243](https://github.com/user-attachments/assets/190cd201-459f-4091-97cb-7c6ebce296a7)
 
 - The report analyzes the performance of Atliq Hardwares across multiple countries from 2019 to 2021 and compares the 2021 sales figures with predefined targets. The data is presented in USD.
 
-##### ➼ Overall Performance:
+#### ➼ Overall Performance:
 
 - Sales grew significantly from $87.5M in 2019 to $598.9M in 2021.
   
 - However, there was a shortfall of $54.9M in 2021 compared to the sales targets, resulting in a 9.2% overall underachievement.
   
-##### ➼ Top-Performing Markets:
+#### ➼ Top-Performing Markets:
 
 - India: Contributed the highest sales of $161.3M in 2021 but missed the target by $9.6M (a 5.9% shortfall).
   
@@ -91,7 +91,7 @@ Examined sales trends over time, identified top-performing products, and analyze
   
 - South Korea: Generated $49.0M, missing the target by $4.4M (8.9% below target).
   
-##### ➼ Underperforming Markets:
+#### ➼ Underperforming Markets:
 
 - Poland: Showed the largest percentage gap, falling short by 18.1% of the target.
 
@@ -99,7 +99,7 @@ Examined sales trends over time, identified top-performing products, and analyze
 
 - Spain: Sales were $12.6M, but the gap was 14.1%, reflecting one of the highest deviations.
 
-##### ➼ Steady Performers:
+#### ➼ Steady Performers:
 
 - Philippines: Delivered $31.9M in sales, with only a 7.8% gap, showcasing steady performance.
 
@@ -119,32 +119,32 @@ Markets like Poland, Canada, and Spain need targeted interventions, such as tail
 Leverage Emerging Markets:
 Strengthen efforts in regions like Indonesia and Portugal, where there is evident growth potential with relatively smaller gaps.
 
-#### ✨ Report 2- Customer Performance Sales Report
+### ✨ Report 2- Customer Performance Sales Report
 
 ![Screenshot 2024-12-17 143312](https://github.com/user-attachments/assets/e1dbbee2-c1d3-4821-98fc-344eea5ca75f)
 
 ![Screenshot 2024-12-17 143320](https://github.com/user-attachments/assets/674e1faf-29ec-462b-b373-7edfe7d829af)
 
-##### ➼ Year-over-Year Growth:
+#### ➼ Year-over-Year Growth:
 
 Total net sales increased significantly, growing from $87.5M in 2019 to $598.9M in 2021, representing a 304.5% growth in 2021 vs. 2020.
 
-##### ➼ Top Performing Customers:
+#### ➼ Top Performing Customers:
 
 Amazon: Achieved the highest sales, growing from $12.2M in 2019 to $82.1M in 2021 (218.9% growth).
 AtliQ Exclusive: Increased sales from $9.6M to $61.1M over the same period, showing a robust 345.8% growth.
 AtliQ eStore and Electricalsocity were also high-performing segments, with sales exceeding $50M in 2021.
 
-##### ➼ Highest Percentage Growth:
+#### ➼ Highest Percentage Growth:
 
 Nova: Recorded an astounding 2664.9% growth in 2021 vs. 2020, though starting from a low base.
 Logic Stores and Electricalsquipo Stores also had remarkable growth rates of 515.2% and 535.3%, respectively.
 
-##### ➼ Consistent Performers:
+#### ➼ Consistent Performers:
 
 Walmart, Reliance Digital, and Staples maintained strong and steady sales growth, contributing significantly to the overall revenue.
 
-#####  ➼ Emerging Markets:
+####  ➼ Emerging Markets:
 
 Smaller customers like Neptune and Girias grew rapidly, with sales of $16.1M and $8.7M, respectively, showing strong potential for expansion.
 
@@ -200,7 +200,7 @@ Reassess engagement strategies for moderately growing customers to unlock furthe
 
 ![Screenshot 2024-12-17 145014](https://github.com/user-attachments/assets/cefb16a1-6723-4127-bb12-e8d11de847ab)
 
-Key Insights:
+### Key Insights:
 
 - Top Products: The top 10 products accounted for 35% of total revenue.
 
@@ -236,10 +236,10 @@ Key Insights:
 
 - Learned to communicate technical findings in a business-friendly manner.
 
-## Importance:
+### Importance of the Project:
 
--This project highlights my ability to analyze large datasets, derive insights, and connect technical work with real-world business outcomes. 
-It demonstrates proficiency in Excel and a strong analytical mindset, skills that are crucial for roles in data analytics and finance.
+- This project highlights my ability to analyze large datasets, derive insights, and connect technical work with real-world business outcomes. 
+- It demonstrates proficiency in Excel and a strong analytical mindset, skills that are crucial for roles in data analytics and finance.
 
 
 
