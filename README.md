@@ -1,8 +1,8 @@
-# Sales & Finance Analytics Project( For AtliQ HArdware || Excel , Power Query, Pivot Table
+# Sales & Finance Analytics Project (For AtliQ Hardwares)|| Excel , Power Query, Pivot Table
 
 ### Project objective -
 
-- AtliQ Hardware, a leading hardware company with a global focus on PCs, printers, mouse, and computers.
+- AtliQ Hardwares, a leading hardware company with a global focus on PCs, printers, mouse, and computers.
 
 - The goal of the project is to increase sales and enhance net gross margins and profits for AtliQ Hardware, and to explore potential for optimization, analyze trends, and identify cost drivers in order to deliver meaningful insights into sales and financial performance. 
 
@@ -30,7 +30,7 @@ The dataset consisted of 7,99,962 entries with the following features:
 
 - customer_code: Customer identifiers, allowing segmentation and behavior analysis.
 
-= Qty: Quantity sold, indicating sales volume.
+- Qty: Quantity sold, indicating sales volume.
 
 - net_sales_amount: Revenue generated from sales.
 
@@ -40,7 +40,7 @@ The dataset consisted of 7,99,962 entries with the following features:
 
 ### Tools & Techniques:
 
-Tools: Microsoft Excel for data cleaning, analysis, and creating buisness reports.
+- Tools: Microsoft Excel for data cleaning, analysis, and creating buisness reports.
 
 ### Techniques:
 
@@ -54,24 +54,26 @@ Tools: Microsoft Excel for data cleaning, analysis, and creating buisness report
 
 ### Process:
 
-##### Data Cleaning: 
+##### 𖧹 Data Cleaning: 
 Ensured consistency in date formatting and checked for missing or duplicate entries.
 
-##### Data Preparation: 
+##### 𖧹 Data Preparation: 
 Created calculated fields for metrics like gross profit (net_sales_amount - freight_cost - manufacturing_cost).
 
-##### Exploratory Analysis: 
+##### 𖧹 Exploratory Analysis: 
 Examined sales trends over time, identified top-performing products, and analyzed customer purchase patterns.
 
 #### Reports: 
 
-Built an interactive reports displaying total sales, average profit margin, and cost breakdowns.
+- Built an interactive reports displaying total sales, average profit margin, and cost breakdowns.
 
-Insights Generation: Used the dashboard to identify actionable opportunities and challenges.
+- Insights Generation: Used the dashboard to identify actionable opportunities and challenges.
 
 ### Insights & Findings :-
 
 #### ✨Report 1 - Market Performance VS Target
+
+![Screenshot 2024-12-17 143243](https://github.com/user-attachments/assets/190cd201-459f-4091-97cb-7c6ebce296a7)
 
 - The report analyzes the performance of Atliq Hardwares across multiple countries from 2019 to 2021 and compares the 2021 sales figures with predefined targets. The data is presented in USD.
 
@@ -119,6 +121,10 @@ Strengthen efforts in regions like Indonesia and Portugal, where there is eviden
 
 #### ✨ Report 2- Customer Performance Sales Report
 
+![Screenshot 2024-12-17 143312](https://github.com/user-attachments/assets/e1dbbee2-c1d3-4821-98fc-344eea5ca75f)
+
+![Screenshot 2024-12-17 143320](https://github.com/user-attachments/assets/674e1faf-29ec-462b-b373-7edfe7d829af)
+
 ##### ➼ Year-over-Year Growth:
 
 Total net sales increased significantly, growing from $87.5M in 2019 to $598.9M in 2021, representing a 304.5% growth in 2021 vs. 2020.
@@ -163,6 +169,36 @@ Invest in customers with strong growth potential, such as Neptune, Logic Stores,
 
 - Optimize Strategies for Slower Segments:
 Reassess engagement strategies for moderately growing customers to unlock further potential.
+
+
+#### ✨ Report 3- Profit & Loss Report by Fiscal Years
+
+![Screenshot 2024-12-17 143915](https://github.com/user-attachments/assets/21571f5f-f6d0-4a8e-a973-db16b39b62ed)
+
+#### ✨ Report 4- Profit & Loss Report by Months
+
+![Screenshot 2024-12-17 144127](https://github.com/user-attachments/assets/13360399-ba9b-406e-849a-091f812549ab)
+
+![Screenshot 2024-12-17 144139](https://github.com/user-attachments/assets/2c620e1f-76da-43c2-9fd6-38e6d7236d9f)
+
+
+#### ✨ Report 4- Profit & Loss Report by Quarters
+
+![Screenshot 2024-12-17 144739](https://github.com/user-attachments/assets/96bab664-b78e-4f71-ab67-9d09706287c2)
+
+
+#### ✨ Report 4- Profit & Loss Report for Market
+
+![Screenshot 2024-12-17 144923](https://github.com/user-attachments/assets/2b5642bd-b81b-436e-bf8e-fe282a0145dd)
+
+
+#### ✨ Report 4- Profit & Loss Report by Fiscal Years for Market
+
+![Screenshot 2024-12-17 145000](https://github.com/user-attachments/assets/584da636-f7de-45b6-af2f-8bc703a14b42)
+
+![Screenshot 2024-12-17 145006](https://github.com/user-attachments/assets/5aef987b-4683-4415-b5a0-bed6c932d04a)
+
+![Screenshot 2024-12-17 145014](https://github.com/user-attachments/assets/cefb16a1-6723-4127-bb12-e8d11de847ab)
 
 Key Insights:
 
